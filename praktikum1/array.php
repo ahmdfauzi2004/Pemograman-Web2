@@ -1,6 +1,6 @@
 <?php 
 $fruits = ["Mango", "Banana", "Melon", "Orange"];
-$alamat = "Cilebut";
+$alamat = "Bojonggede";
 
 echo $fruits[1];
 echo "<br> ";
